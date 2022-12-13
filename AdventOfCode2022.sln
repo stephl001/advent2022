@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AdventOfCode2022", "src\AdventOfCode2022.fsproj", "{50F55F44-6ED7-4167-900F-E95F06D16B5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50F55F44-6ED7-4167-900F-E95F06D16B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F55F44-6ED7-4167-900F-E95F06D16B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F55F44-6ED7-4167-900F-E95F06D16B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F55F44-6ED7-4167-900F-E95F06D16B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
