@@ -11,6 +11,7 @@ let runnerDefs = [|
     { InputFile = "Day3/input.txt"; Part1Handler = Day3.Part1.totalPriorities; Part2Handler = Day3.Part2.totalPriorities }
     { InputFile = "Day4/input.txt"; Part1Handler = Day4.Part1.totalInclusiveAssignments; Part2Handler = Day4.Part2.totalOverlappingAssignments }
     { InputFile = "Day5/input.txt"; Part1Handler = Day5.Part1.getTopStacks; Part2Handler = Day5.Part2.getTopStacks }
+    { InputFile = "Day6/input.txt"; Part1Handler = Day6.Part1.startOfPacketLastCharIndex; Part2Handler = Day6.Part2.startOfMessageLastCharIndex }
 |]
 
 let runDayDef dayIndex {InputFile = inputFile; Part1Handler = part1Handler; Part2Handler = part2Handler } =
